@@ -2,11 +2,6 @@ import './App.css';
 import Navbar from './Navbar'
 
 function App() {
-  const title = "Welcome to the Rian++ Blog";
-  const likes = 50;
-  //const person = {name: "jotaro", age: 17}
-  const link = "https://www.google.com";
-
   return (
     <div className="App">
       <Navbar/>
